@@ -1,0 +1,26 @@
+{
+  "fileName": "manifest",
+  "layer": "CUSTOMER_BASE",
+  "fileType": "appdescr_variant",
+  "reference": "com.sap.cp.br.test.textRule",
+  "id": "customer.GHUB6000",
+  "namespace": "apps/com.sap.cp.br.test.textRule/appVariants/customer.GHUB6000/",
+  "content": [
+    {
+      "changeType": "appdescr_app_setTitle",
+      "content": {},
+      "texts": {
+        "i18n": "i18n/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "i18n"
+      },
+      "texts": {
+        "i18n": "i18n/i18n.properties"
+      }
+    }
+  ]
+}

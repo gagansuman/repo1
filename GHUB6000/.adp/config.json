@@ -1,0 +1,11 @@
+{
+  "componentname": "com.sap.cp.br.test.textRule",
+  "safeMode": false,
+  "appvariant": "GHUB6000",
+  "layer": "CUSTOMER_BASE",
+  "sourceSystem": "S49",
+  "isOVPApp": false,
+  "isFioriElement": false,
+  "environment": "ABAP",
+  "ui5Version": "1.71.16"
+}
